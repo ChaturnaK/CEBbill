@@ -13,7 +13,7 @@ def ensure_package(package_name):
 ensure_package("requests")
 ensure_package("bs4")
 
-account_number = "4216028101"
+account_number = "xxxx"
 
 def get_ceb_bill_balance(account_number):
     form_url = "https://payment.ceb.lk/instantpay"
